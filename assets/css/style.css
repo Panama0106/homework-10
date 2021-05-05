@@ -11,3 +11,7 @@ img {
 .container {
     box-shadow: 9px 16px 30px black;
 }
+
+.cont {
+    flex-basis: 50%;
+}
