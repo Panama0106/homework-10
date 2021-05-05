@@ -7,3 +7,7 @@ img {
     height: 120px;
     object-fit: cover;
 }
+
+.container {
+    box-shadow: 9px 16px 30px black;
+}
